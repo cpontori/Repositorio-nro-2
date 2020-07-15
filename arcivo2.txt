@@ -1,2 +1,3 @@
-Cambio en la master
-cambio 2 en la master
+cambio 1 en merge 1 - mergeado
+commit  2 en merge 1 - mergeado
+
